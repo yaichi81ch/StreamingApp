@@ -1,2 +1,0 @@
-# StreamingApp
-Created with CodeSandbox
