@@ -1,21 +1,10 @@
 {
   "streams": [
     {
-      "title": "title changed",
-      "description": "dfsadfsfs",
+      "title": "first stream",
+      "description": "this is a first stream.",
+      "userId": "109661031694284972463",
       "id": 1
-    },
-    {
-      "title": "fsdfdsfsdf",
-      "description": "dfdsfsdfsdf",
-      "userId": "109661031694284972463",
-      "id": 2
-    },
-    {
-      "title": "blahblah",
-      "description": "this is a stream",
-      "userId": "109661031694284972463",
-      "id": 3
     }
   ]
 }
